@@ -1,0 +1,81 @@
+body{
+    background-color: #211522;
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+    color:#fff;
+    margin-bottom: 50px;
+}
+label{
+    text-align:left;
+    color:#fff;
+    margin-left: 40px;
+    font-weight: bold;
+}
+img{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#divlogin{   
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#formlogin{   
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+input{
+    background-color: #383838;
+    border-color: none;
+    color:#fff;
+    box-shadow:none;
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;  
+    border-radius: 8px;
+    width: 70%;
+    font-size: 15px;
+}
+.button{
+    background-color: #C93DDF;
+    color: #fff;
+    border-radius: 8px;
+    width: 75%;
+    margin: 10px;
+    padding: 15px 1px;
+    font-size: 15px;   
+    cursor: pointer;
+    font-size: 15px;
+    font-style: bold;
+    text-align: center;    
+    text-transform: none;
+}
+.button2{
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    margin: 20px;
+}
+#rodape{
+    border-top:solid;
+    border-color: #383838;
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: auto;
+    align-items: center;
+}
