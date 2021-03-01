@@ -12,6 +12,7 @@ export default () =>
                 <input placeholder="digite seu email"></input>  
                 <input placeholder="digite seu email"></input>  
                 <button class="button">ENTRAR</button>
+                <label>Esqueci minha senha</label>
             </form>   
         </div>   
     </div>

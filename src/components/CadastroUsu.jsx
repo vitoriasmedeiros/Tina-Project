@@ -3,8 +3,7 @@ import {Link} from 'react-router-dom'
 
 export default () => 
     <> 
-        <h1>Bem Vindo!</h1>
-        <label>Realize seu cadastro</label> 
+        <h1>Cadastre-se</h1>
         <div id="divlogin">
             <form id="formlogin">
                 <input placeholder="Nome Completo"></input>  
